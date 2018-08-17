@@ -17,6 +17,8 @@ body {
     max-width: 960px;
     margin: 0 auto;
     clear: both;
+    padding: 20px;
+    position: static;
   }
   
   h1,
@@ -92,6 +94,7 @@ body {
   #main-container {
     padding-top: 50px;
     min-height: calc(100vh - 70px);
+    padding: 10px;
   }
   
   .main-section {
